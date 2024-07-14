@@ -22,4 +22,4 @@ How to reach me:
 - email: gdezaru@gmail.com
 
 
-Fun fact: Romanian love eating garlic, not just scaring vampires away!
+Fun fact: Romanian test engineers recommend eating garlic for better bug hunts, not just to scare vampires!
